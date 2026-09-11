@@ -8,8 +8,8 @@ function NavBar() {
             <li>
                Home | </li>
             <li>Products | </li>
-            <li><a>About </a>| </li>
-            <li><a>Contact </a> </li>
+            <li><a href="#">About </a>| </li>
+            <li><a href="#">Contact </a> </li>
         </ul>
       </nav>
     );
